@@ -1,0 +1,84 @@
+
+.a{
+    font-family: "Open Sans", sans-serif;
+    color: rgba(85, 85, 85, 1);
+    margin: 15px auto 15px auto;
+}
+
+.h1{
+    font-size: 40px;
+    line-height: 38px;
+  }
+
+.subtitulo{
+    width: 839px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px; 
+    text-align: left;
+    color: rgba(85, 85, 85, 1);
+    margin: 15px auto 15px auto;
+}
+
+.autor{
+    height: 20px;
+    font-family: "Open Sans", sans-serif;
+    color: rgba(0, 0, 0, 1);
+    margin: 15px auto 15px auto;
+}
+
+.data{
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 1);
+    margin: 15px auto 15px auto;
+}
+
+.hr{
+    width: 85%;
+}
+
+.conteudo1{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+}
+ul{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    color: rgba(166, 19, 10, 1);
+
+}
+
+h2{
+    font-family: "Open Sans", sans-serif;
+    font-size: 32px;
+    color: rgba(17, 17, 17, 1);
+
+}
+
+.conteudo2{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+}
+
+.pizzaiolo{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    color: rgba(51, 51, 51, 1);
+}
+
+.citacao{
+    font-family: "Open Sans";
+    font-size: 28px;
+    font-weight: 600;
+    text-align: left;
+    color: rgba(51, 51, 51, 1);
+}
+
+.linha{
+    padding-left: 10px;
+    border-left: 3px solid rgba(166, 19, 10, 1);
+    width: 665px;
+    height: 252px;
+    top: 0px;
+    margin: 1px auto 1px auto;
+}
